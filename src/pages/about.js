@@ -5,6 +5,7 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import style from "./about.module.css"
+import RobotImage from "../components/robotimage"
 
 const AboutPage = ({ data }) => {
   return (
@@ -27,6 +28,8 @@ const AboutPage = ({ data }) => {
               alt="Eileen the Robot"
             />
           </figure>
+
+          <RobotImage />
 
           <p>
             This site was built with Gatsby and patience. Learning Gatsby

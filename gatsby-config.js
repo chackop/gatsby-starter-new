@@ -6,11 +6,11 @@
 
 module.exports = {
   siteMetadata: {
-    title: `The Project`,
+    title: `The Starter Project`,
     titleTemplate: `%s · a starting point`,
     author: {
-      name: `Morten Rand-Hendriksen`,
-      summary: `a ballroom dancer playing at being a developer.`,
+      name: `Chacs`,
+      summary: `a developer.`,
     },
     description: `An opinionated starter for Gatsby`,
     url: `https://something.or.other`,
